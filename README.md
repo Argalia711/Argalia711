@@ -44,7 +44,7 @@ I build useful, functional, and scalable tools using Python, Linux, APIs, and bo
 ### 📫 Contacto / Contact
 
 📧 ¿Tienes alguna duda o quieres colaborar?  
-Contáctame por Telegram: `@argaliabot` *(puedes editar esto si usas otro canal)*
+Contáctame por Telegram: `@Argalia25` 
 
 ---
 
